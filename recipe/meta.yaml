@@ -1,5 +1,5 @@
 {% set name = "xcube-4d-viewer" %}
-{% set version = "1.0.8" %}
+{% set version = "1.0.9" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/xcube_4d_viewer-{{ version }}.tar.gz
-  sha256: 702d9fcba5cff08967e3038a024b276e9038faf72a534a08455584a951d837a2
+  sha256: 87bdae5442749466d266fb88c1ea0bade52eeb222d5f345d63877d1a35782d3b
 
 build:
   noarch: python
