@@ -12,7 +12,7 @@ source:
 build:
   noarch: python
   script: {{ PYTHON }} -m pip install . -vv
-  number: 0
+  number: 1
 
 requirements:
   host:
@@ -31,7 +31,7 @@ test:
     - pip
 
 about:
-  home: https://github.com/earthwave/xcube_4d_viewer
+  home: https://pypi.org/project/xcube-4d-viewer/
   summary: API extension to the xcube server allowing cubes to be visualised in the Earthwave 4D viewer.
   license: MIT
   license_file: LICENSE
