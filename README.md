@@ -3,7 +3,7 @@ About xcube-4d-viewer-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/xcube-4d-viewer-feedstock/blob/main/LICENSE.txt)
 
-Home: https://github.com/earthwave/xcube_4d_viewer
+Home: https://pypi.org/project/xcube-4d-viewer/
 
 Package license: MIT
 
